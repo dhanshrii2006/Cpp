@@ -1,7 +1,5 @@
 #include <iostream>
-
 using namespace std;
-
 int main(){
 
     int teaLeaves = 50;
