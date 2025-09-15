@@ -8,7 +8,7 @@ int main(){
     int teaQuantity;
 
     cout << "What would you like to order in tea? \n";
-    getline(cin, userTea);
+    getline(cin, userTea); // to take input with spaces
 
     //ask for quantity
     cout << "how many cups of " << userTea << "would you like to have ? ";
